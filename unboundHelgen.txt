@@ -1,0 +1,301 @@
+============================== Bethesda Studios ==============================
+----------------------------- The Elder Scrolls V ----------------------------
+==================================== Skyrim ==================================
+______________________________________________________________________________
+				   
+	                             Unbound
+______________________________________________________________________________
+
+> You wake in a wagon rolling along a bumpy road. Your hands are bound and 
+  you are joined by three other prisoners: all Nords, one an average farmer, 
+  the man across from you in blue Stormcloak armor, and the one beside you 
+  dressed in a Jarl's finery, gagged. Armed Imperial soldiers surround the wagon 
+  on all sides.
+
+[CONT]
+
+Ralof: Hey, you. You're finally awake. You were trying to cross the border,
+       right? Walked right into that Imperial ambush, same as us, and that
+       thief over there. 
+
+[CONT]
+
+Lokir: Damn you Stormcloaks. Skyrim was fine until you came along. Empire was
+       nice and lazy. If they hadn't been looking for you, I could've stolen
+       that horse and been half way to Hammerfell. You there. You and me -- we
+       should be here. It's these Stormcloaks the Empire wants.
+
+Ralof: We're all brothers and sisters in binds now, thief.
+
+Imperial Soldier: Shut up back there!
+
+[CONT]
+
+Thief to the finely dressed man: And what's wrong with him?
+
+Ralof: Watch your tongue! You're speaking to Ulfric Stormcloak, the true High
+       King.
+
+Lokir: Ulfric? The Jarl of Windhelm? You're the leader of the rebellion. But if
+       they captured you... Oh gods, where are they taking us?
+
+Ralof: I don't know where we're going, but Sovngarde awaits.
+
+Lokir: No, this can't be happening. This isn't happening.
+
+[CONT]
+
+> The wagon approaches a heavily guarded village. A soldier calls out to the lead wagon.
+
+Imperial Soldier: General Tullius, sir! The headsman is waiting!
+
+General Tullius: Good. Let's get this over with.
+
+Thief: Shor, Mara, Dibella, Kynareth, Akatosh. Divines, please help me.
+
+Ralof: Look at him, General Tullius the Military Governor. And it looks like
+       the Thalmor are with him. Damn elves. I bet they had something to do
+       with this.  
+
+[CONT]
+
+Ralof: This is Helgen. I used to be sweet on a girl from here. Wonder if Vilod
+       is still making that mead with juniper berries mixed in. Funny...when I
+       was a boy, Imperial walls and towers used to make me feel so safe.
+
+> The wagon stops near the chopping block.
+
+Imperial Soldier: Whoa.
+
+Thief: Why are they stopping?
+
+Ralof: Why do you think? End of the line. Let's go. Shouldn't keep the gods
+       waiting for us.
+
+Thief: No! Wait! We're not rebels!
+
+Ralof: Face your death with some courage, thief.
+
+[CONT]
+
+> Under the Imperials' watchful eye, the prisoners start jumping out.
+
+Thief: You've got to tell them! We weren't with you! This is a mistake!
+
+Imperial Captain: Step toward the block when we call your name. One at a time!
+
+Ralof: Empire loves their damn lists.
+
+[CONT]
+
+Hadvar: Ulfric Stormcloak. Jarl of Windhelm.
+
+Ralof: It has been an honor, Jarl Ulfric!
+
+Hadvar: Ralof of Riverwood. Lokir of Rorikstead.
+
+Lokir: No, I'm not a rebel! You can't do this!
+
+> The thief panicks makes a break for it.
+
+Imperial Captain: Halt!
+
+Lokir: You're not going to kill me!
+
+[CONT]
+
+Imperial Captain: Archers!
+
+> Lokir is downed with one bowshot.
+
+Imperial Captain: Anyone else feel like running?
+
+Hadvar: Wait, you there. Step forward. Who are you?
+
+[SET UP] 
+
+Hadvar: Captain, what should we do? They're not on the list.
+
+Imperial Captain: Forget the list. They go to the block.
+
+Hadvar: By your orders, captain. I'm sorry. We'll be sure your remains are 
+        returned to your home. Follow the Captain, prisoner.
+
+[CONT]
+
+> You move to stand with the other waiting prisoners by the block.
+
+Tullius: Ulfric Stormcloak. Some here in Helgen call you a hero, but a hero
+         doesn't use a power like the Voice to murder his king and usurp his
+         throne.
+
+Jarl Ulfric Stormcloak: (grunting protest)
+
+Tullius: You started this war, plunged Skyrim into chaos and now the Empire is
+         going to put you down, and restore the peace.
+
+[CONT]
+
+> A distant noise rings down the mountainside.
+
+Hadvar: What was that?
+
+Tullius: It's nothing. Carry on.
+
+Imperial Captain: Yes, General Tullius. Give them their last rites.
+
+[CONT]
+
+Priestess of Arkay: As we commend your souls to Aetherius, blessings of the
+                    Eight Divines upon you, for you are the salt and earth of
+                    Nirn, our beloved--
+
+> One of the prisoners from the lead wagon walks forward.
+
+Stormcloak Soldier: For the love of Talos, shut up and lets get this over with.
+
+Priestess of Arkay: As you wish...
+
+[CONT]
+
+Stormcloak Soldier: Come on, I haven't got all morning. My ancestors are
+                    smiling at me, Imperials. Can you say the same?
+
+> The executioner swiftly beheads the soldier. The Nord's fellow soldiers 
+  begin to yell at their captors while townsfolk cheer
+
+Stormcloak Soldier 2: You Imperial bastards!
+
+Helgen Citizen 1: Justice!
+
+Helgen Citizen 2: Death to the Stormcloaks!
+
+Ralof: As fearless in death as he was in life.
+
+[CONT]
+
+Imperial Captain: Next!
+
+Another cry rings out on the mountainside, this time much closer.
+
+Hadvar: There it is again. Did you hear that?
+
+Imperial Captain: I said, next prisoner!
+
+Hadvar: To the block, prisoner. Nice and easy.
+
+[CONT]
+
+> You're brought to the chopping block, neck laid exposed on the stone.
+  A large creature swoops over the southern peaks, barreling toward Helgen.
+
+Tullius: What in Oblivion is that?
+
+Imperial Captain: Sentries! What do you see?
+
+Imperial Soldier: It's in the clouds!
+
+> The creature, clearly a dragon, lands on the nearest tower and releases a 
+  gout of flame just as the executioner raises his axe. The man falls aside dead,
+  your head remaining well attached to your shoulders
+
+Stormcloak Soldier: Dragon!
+
+[CONT]
+
+Tullius: Don't just stand there, kill that thing! Guards, get the townspeople
+         to safety!
+
+Ralof: Hey, get up! Come on, the gods won't give us another chance! This way!
+
+[CONT]
+
+> You follow Ralof through the burning village to a tower where the other prisoners are hiding.
+
+Ralof: Jarl Ulfric! What is that thing? Could the legends be true?
+
+Ulfric: Legends don't burn down villages. We need to move, now!
+
+[CONT]
+
+Ralof: Up through the tower. Let's go! This way, friend! Move!
+
+> Stormcloak Soldier: We just need to move some of these rocks to clear the way!
+
+> The dragon breaks in through the wall, blasting fire everywhere.
+
+Ralof: Get back!
+
+Dragon: Toor shul!
+
+[CONT]
+
+> You follow Ralof up the stairs and examine a nearby burning building
+
+Ralof: See the inn on the other side? Jump through the roof and keep going! Go!
+       We'll follow you when we can!
+
+> You continue alone, jumping from the tower into the burning inn. From there you 
+  make your way to the ground floor and back outside, the Imperial with the list 
+  crouched nearby with some other refugees.
+
+[CONT]
+
+Hadvar: Haming, you need to get over here now! Thataboy. You're doing great!
+        Torolf! Gods...everyone get back!
+
+> The dragon releases another grout of flame, narrowly missing the small group
+
+Hadvar: Still alive, prisoner? Keep close to me if you want to stay that way.
+        Gunnar, take care of the boy. I have to find General Tullius and join
+        the defense.
+
+Gunnar: Gods guide you, Hadvar.
+
+[CONT]
+
+> You follow Hadvar onward without the other refugees
+
+Hadvar: Stay close to the wall!
+
+[CONT]
+
+> The dragon lands on the wall above, launching flame at all it can see
+
+Dragon: Vol toor shul!
+
+Hadvar: Quickly, follow me!
+
+[CONT]
+
+> You reach the main keep where archers are fighting in vain to shoot the beast down
+
+Helgen Citizen: Tell my family I fought bravely!
+
+Tullius: Hadvar! Into the keep, soldier, we're leaving!
+
+Hadvar: It's you and me, prisoner, stay close!
+
+> Near the keep, Ralof can be seen with his comrades.
+
+[CONT]
+
+Hadvar: Ralof! You damned traitor, out of my way!
+
+Ralof: We're escaping, Hadvar! You're not stopping us this time.
+
+Hadvar: Fine. I hope that dragon takes you all to Sovngarde.
+
+> Ralof turns to you and beckons you follow
+
+[CONT]
+
+Ralof: You, come on! Into the keep!
+
+Hadvar: With me, prisoner! Let's go! Come on! We need to get inside!
+
+[SIDE]
+__________________________________________________________________________
+
+
+

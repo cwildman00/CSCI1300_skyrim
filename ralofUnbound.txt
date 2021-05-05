@@ -1,0 +1,166 @@
+Ralof: We'll meet again in Sovngarde, brother. Looks like we're the only ones
+       who made it. That thing was a dragon. No doubt. Just like the children's
+       stories and the legends. The harbingers of the End Times. We better get
+       moving. Come here, let me see if I can get those bindings off. There you
+       go. May as well take Gunjar's gear...he won't be needing it anymore.
+       Alright, get that armor on and give that axe a few swings. I'm going to
+       see if I can find some way out of here. 
+
+> You pick up the fallen Stormcloak's gear while your companion looks about the
+  room.
+
+[ADD]
+Iron Sword,One Handed,28,10,23
+
+[ADD]
+Imperial Light Armor,Light,23,6,75
+
+[ADD]
+Potion of Minor Healing,Healing Potion,25,1,17
+
+[ADD]
+Potion of Minor Healing,Healing Potion,25,1,17
+
+[CONT]
+
+Ralof: This door's locked. Let's see about that gate. Damn. No way to open this 
+       from our side.
+
+> As if on que, voices can be heard from the other side of the gate.
+
+[CONT]
+
+Imperial Captain: Come on, soldier! Keep moving!
+
+Ralof: It's the Imperials! Take cover!
+
+[CONT]
+
+Imperial Captain: Get this gate open.
+
+Ralof: Imperial dogs!
+
+[CONT]
+
+[COMBAT]
+Imperial Captian,Imperial,F,Imperial Sword,One Handed,8,10,23,Imperial Armor,Heavy,25,35,100
+
+[CONT]
+
+Ralof: Maybe one of these Imperials has the key. Let's see here... 
+
+[CONT]
+
+Ralof: Here we are, found a key. Let's see if it opens that door. That's it! 
+       Come on, let's get out of here before the dragon brings the whole 
+       tower down on our heads.
+
+
+> You go downstairs, just in time to miss being crushed under a collapsing ceiling.
+
+Ralof: Look out! Damn, that dragon doesn't give up easy.
+
+[CONT]
+
+> Ralof leads the way into a large storeroom, where even more Imperials 
+  can be heard moving about.
+
+Imperial Soldier 1: Grab everything important and let's move! The dragon is
+                  burning everything to the ground.
+
+Imperial Soldier 2: Just need to gather some more potions.
+
+[CONT]
+
+Imperial Soldier 1: Stormcloaks!
+
+[COMBAT]
+Imperial Soldier,Nord,M,Imperial Sword,One Handed,8,10,23,Studded Imperial Armor,Light,23,6,125
+
+Ralof: A storeroom. See if you can find any potions. We'll need them. 
+
+[ADD]
+Potion of Minor Healing,Healing Potion,25,1,17
+
+[ADD]
+Potion of Minor Healing,Healing Potion,25,1,17
+
+Ralof: Done? Let's get moving.
+
+[CONT]
+
+> The pair of you go downstairs to what appears to be a torture chamber, where 
+  some of Ralof's fellow Stormcloaks are fighting.
+
+Ralof: Troll's blood! It's a torture room. Hear that?
+
+[CONT]
+
+[COMBAT]
+Torturer,Imperial,M,Iron War Axe,One Handed,8,11,30,Studded Imperial Armor,Light,23,6,125
+
+Ralof: Is Jarl Ulfric with you?
+
+Stormcloak Soldier: No, I haven't seen him since the dragon showed up.
+
+Ralof: Wait a second. Looks like there's something in this cage. It's locked.
+       See if you can get it open with some picks. We might need that gold once
+       we get out. Grab anything useful and let's go.
+
+[LOCKPICK]
+
+> You continue further downstairs, finding even more soldiers.
+
+Imperial Soldier: The orders are to wait until General Tullius arrives.
+
+Imperial Soldier 2: I'm not waiting to be killed by a dragon!
+
+Stormcloak Soldier: You Imperial bastards will pay!
+
+[COMBAT]
+Imperial Soldier,Imperial,M,Steel Mace,One Handed,10,14,65,Studded Imperial Armor,Light,23,6,125,yes
+
+Ralof: Let's go on ahead. See if the way is clear. Let's see where this goes.
+
+> You come to a bridge that is lowered by pulling a lever. Ralof pulls it and you run across,
+  narrowly avoiding a falling rock. The Stormcloak who had joined you lies dead under the rubble.
+
+Ralof: No going back that way, now. We'd better push on. The rest of them will
+       have to find another way out.
+
+> You follow a stream into a network of tunnels until you come to a dead end.
+
+Ralof: Hmm, that doesn't go anywhere. I guess we'd better try this way.
+
+> Ralof leads down a different passage for a while until stopping to rest.
+
+Ralof: Sit for a moment. That dragon is still going to be flying around out 
+       there. No point in rushing out to greet it so quick. Looks like there's
+       an exit just that way.
+
+> Hadvar and another Imperial soldier enter the cavern, swords drawn. Ralof bristles
+  and draws his axe.
+
+Ralof: Hadvar, you faithless bastard! I'll kill you for all my comrades you've sent
+       to Sovngarde!
+
+Hadvar: Give it your best shot, Stormcloak!
+
+[COMBAT]
+Hadvar,Nord,M,Steel Greatsword,Two Handed,17,17,90,Studded Imperial Armor,Light,23,6,125
+
+Ralof: That takes care of that. Let's get out of here before anyone else finds us.
+
+> They watch as Alduin flies overhead and away.
+
+Ralof: Wait! There he goes. Looks like he's gone for good this time. No way to
+       know if anyone else made it out alive. But this place is going to be
+       swarming with Imperials soon enough. We'd better clear out of here. My
+       sister Gerdur runs the mill in Riverwood, just up the road. I'm sure
+       she'd help you out. It's probably best if we split up. Good luck. I
+       wouldn't have made it without your help today.
+
+> With nowhere better to go, you follow the Stormcloak down the road to Riverwood. 
+So begins the tale of the legendary Dragonborn.
+______________________________________________________________________________
+QUEST COMPLETE: UNBOUND
